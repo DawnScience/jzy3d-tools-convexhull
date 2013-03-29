@@ -6,3 +6,4 @@ doc/javadoc
 *.log
 *~/
 
+/target/
